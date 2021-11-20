@@ -1,0 +1,13 @@
+
+body {
+    background: url('board.jpg');
+    padding: 30%;
+    height: fit-content;
+
+}
+
+.c {
+    text-align: right;
+    color: black;
+    font-size: 40px;
+}

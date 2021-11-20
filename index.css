@@ -1,0 +1,49 @@
+
+        body {
+            background: url('bg1.jpg');
+            padding: 0%;
+            height: auto;
+        }
+
+        .intro {
+            text-align: center;
+            color: rgb(173, 68, 6);
+            font-family: "Times New Roman", Times, serif;
+        }
+
+        .img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0.5cm 0.5cm;
+            /* border-radius: 50%; */
+        }
+
+        .git {
+            position: absolute;
+            display: inline-block;
+            right: 540px;
+        }
+
+        .link {
+            position: absolute;
+            display: inline-block;
+            left: 540px;
+        }
+
+        .right {
+            display: block;
+            position: absolute;
+            top: 10px;
+            right: 80px;
+         
+        }
+        .navbar{
+            color:brown;
+        }
+       
+         .navbar li {
+            display: inline-block;  
+            color: #222;
+        }
+   
